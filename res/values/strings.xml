@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AdbRemote</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tcp">adb/tcp</string>
+    <string name="usb">adb/usb</string>
+    <string name="switcher">adb connection switch</string>
+
+</resources>
